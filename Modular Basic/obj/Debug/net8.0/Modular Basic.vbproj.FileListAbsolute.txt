@@ -1,0 +1,14 @@
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\bin\Debug\net8.0\Modular Basic.exe
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\bin\Debug\net8.0\Modular Basic.deps.json
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\bin\Debug\net8.0\Modular Basic.runtimeconfig.json
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\bin\Debug\net8.0\Modular Basic.dll
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\bin\Debug\net8.0\Modular Basic.pdb
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\Modular Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\Modular Basic.AssemblyInfoInputs.cache
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\Modular Basic.AssemblyInfo.vb
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\Modular Basic.vbproj.CoreCompileInputs.cache
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\Modular Basic.dll
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\refint\Modular Basic.dll
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\Modular Basic.pdb
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\Modular Basic.genruntimeconfig.cache
+E:\Prometeo Suite\Prometeo Studio\Modular Basic\obj\Debug\net8.0\ref\Modular Basic.dll
